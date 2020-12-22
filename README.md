@@ -6,15 +6,8 @@
 A partir do simple json server enviado (anexo), fazer o frontend usando React, de forma que o frontend renderize as imagens e os textos obtidos via verbo GET. 
 
 
-O sistema devera conter uma div que servira como 
+O sistema devera conter uma div que servira como (quadrada)
 
-#_______________
-#|              |
-#|              |
-#|              |
-#|              |
-#|              |
-#|______________|
 		
 A requisição trará um vetor de objetos contendo tres campos "tipo", "pos" e "el", em que "pos" informa a posicao do elemento e "el" o elemento em si e por ultimo "tipo" sera igual a "img" ou "text".  
 

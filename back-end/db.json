@@ -1,0 +1,48 @@
+{
+  "elements": [
+    {
+      "tipo": "text",
+      "el": "Texto 1",
+      "pos": {
+        "width": "20px",
+        "height": "10px",
+        "top": "25px",
+        "left": "625px"
+      },
+      "id": 1
+    },
+    {
+      "tipo": "text",
+      "el": "Texto 2",
+      "pos": {
+        "width": "20px",
+        "height": "10px",
+        "top": "200px",
+        "left": "200px"
+      },
+      "id": 2
+    },
+    {
+      "tipo": "img",
+      "el": "https://miro.medium.com/max/3600/1*6ahbWjp_g9hqhaTDSJOL1Q.png",
+      "pos": {
+        "width": "150px",
+        "height": "100px",
+        "top": "5px",
+        "left": "25px"
+      },
+      "id": 3
+    },
+    {
+      "tipo": "img",
+      "el": "https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png",
+      "pos": {
+        "width": "100px",
+        "height": "75px",
+        "top": "200px",
+        "left": "500px"
+      },
+      "id": 4
+    }
+  ]
+}
